@@ -1,0 +1,8 @@
+Pip install Pillow
+Pip instal django
+
+Python manage.py makemigrations
+Python manage.py migrate
+
+Python manage.py createsuperuser
+Python manage.py runserver любые 4 цифры
